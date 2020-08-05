@@ -1,0 +1,16 @@
+##README##
+Project Name: Mother's Love Website.
+
+##WORK DONE##
+So far, I have worked on send contact messages, works perfectly but only send mail functionality is left to be done. This will be easier to implement once the website is hosted. 
+As per my opinion and basing on the website, contact messages is the most important bit of it for now.
+ 
+I have also done just alittle bit concerning the application process. I should however note that this will require much more than we currently have. Just to be clear, for the application process to work perfectly, and according to my expectations, we shall need our own admin panel. I can work on this if all is okay. This should however affect the rest of the website (not so much though).
+
+I found processes such as sign in and sign up kind of irrelevant and so I removed that functionality, following your instructions.
+
+##WORK PENDING##
+Some parts of the code are commented with the heading //TODO: This shows that some work is yet to be done in that area. Such always explains the work pending and what should be done.
+
+Incase of anything unclear, please get in touch with me.
+Also if you are unsatisfied, please inform me and I make the necessary changes.
